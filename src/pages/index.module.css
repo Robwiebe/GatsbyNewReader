@@ -1,0 +1,74 @@
+.main {
+    width: 100%;
+    text-align: center;
+}
+
+.SVLogo {
+    width: 33%;
+    margin-left: 33.5%;
+}
+
+.select {
+    width: 100%; 
+    height: fit-content;
+    text-align: center;
+    padding: 10px;
+}
+
+.languagediv {
+    display: inline-block;
+    width: 120px;
+    margin: 12px 5px;
+    height: 180px;
+    border: solid 2px lightgray;
+    box-shadow: 2px 4px 2px 0;
+    padding: 15px 5px 0px 5px;
+    border-radius: 15px;
+}
+
+.flag {
+    width: 60%;
+    margin-left: 20%;
+}
+
+img {
+    display: block;
+
+}
+
+.copyright {
+    clear: all;
+    padding: 25px;
+    font-size: 8px;
+    text-align: center;
+    color: grey;
+}
+
+.languageOriginal {
+    display: inline-block;
+    width: 100%;
+    height: 20px;
+    font-size: 20px;
+}
+
+.languageName {
+    display: inline-block;
+    width: 100%;
+    height: 20px;
+    font-size: 20px;
+
+}
+
+.languageEnglish {
+    display: inline-block;
+    width: 100%;
+    height: 20px;
+    margin-bottom:0;
+    color: white;
+    font-size: 20px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
